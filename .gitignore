@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Un-ignore only the files needed for submission
+!.gitignore
+!README.md
+!basic.py
+!basic.sh
+!efficient.py
+!efficient.sh
+!Summary.pdf
